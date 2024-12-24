@@ -1,5 +1,35 @@
 [
   {
+    "slug": "/analisisKebutuhan/businessRequirement",
+    "title": "Business Requirement",
+    "description": "",
+    "content": ""
+  },
+  {
+    "slug": "/analisisKebutuhan",
+    "title": "Analisis Kebutuhan",
+    "description": "",
+    "content": ""
+  },
+  {
+    "slug": "/analisisKebutuhan/softwareRequirement",
+    "title": "Software Requirement",
+    "description": "",
+    "content": ""
+  },
+  {
+    "slug": "/analisisKebutuhan/stakeholder",
+    "title": "Stakeholder Requirement",
+    "description": "",
+    "content": ""
+  },
+  {
+    "slug": "/analisisKebutuhan/systemRequirement",
+    "title": "System Requirement",
+    "description": "",
+    "content": ""
+  },
+  {
     "slug": "/introduction/changelog",
     "title": "Changelog",
     "description": "Changelogs and improvements to the Documents projects.",
@@ -85,9 +115,9 @@
   },
   {
     "slug": "/pendahuluan/deskripsi",
-    "title": "Analisis Projek",
-    "description": "",
-    "content": ""
+    "title": "Deskripsi Projek",
+    "description": "deskripsi singkat mengenai projek Kosfunds",
+    "content": "* **Nama Projek**: Aplikasi pencatat keuangan (kosfunds).\n* **Deskripsi**: Aplikasi Kosfunds adalah solusi digital untuk membantu pengguna mengelola pendapatan dan pengeluaran mereka secara efisien. aplikasi ini dirancang untuk memberikan kemudahan pencatatan dan analisis keuangan.\n* **Tujuan Aplikasi**: Aplikasi ini bertujuan untuk mempermudah mengelola keuangan pada anak kos\n* **Identifikasi Masalah**:Ada beberapa anak remaja kos-kosan yang tidak tau bagaimana cara untuk mengatur keuangan mereka, dan mereka tidak tau uang yang mereka habiskan kemana, dan ada beberapa anak kos yang terlalu sibuk/malas untuk mencatat keuangan mereka sendiri. Apalagi mencatatnya di dalam buku\n"
   },
   {
     "slug": "/pendahuluan",
