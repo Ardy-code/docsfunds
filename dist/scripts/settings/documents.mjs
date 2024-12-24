@@ -22,9 +22,22 @@ export const Documents = [
         spacer: true,
     },
     {
-        title: "Navigation",
-        href: "/navigation",
-        heading: "Documents",
+        title: "Pendahuluan",
+        href: "/pendahuluan",
+        items: [
+            {
+                title: "Analisis Projek",
+                href: "/deskripsi",
+            },
+            {
+                title: "Teknologi Yang Digunakan",
+                href: "/teknologi",
+            },
+            {
+                title: "Keterkaitan Matakuliah",
+                href: "/keterkaitan",
+            },
+        ]
     },
     {
         title: "Structure",

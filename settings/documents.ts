@@ -43,6 +43,32 @@ export const Documents: Paths[] = [
     ]
   },
   {
+    spacer: true
+  },
+  {
+    title: "Analisis Kebutuhan",
+    href: "/analisisKebutuhan",
+    heading: "Analisis Dan Desain Perangkat Lunak",
+    items: [
+      {
+        title: "Business Requirement",
+        href: "/businessRequirement",
+      },
+      {
+        title: "Stakeholder Requirement",
+        href: "/stakeholder",
+      },
+      {
+        title: "System Requirement",
+        href: "/systemRequirement",
+      },
+      {
+        title: "Software Requirement",
+        href: "/softwareRequirement",
+      },
+    ],
+  },
+  {
     title: "Structure",
     href: "/structure",
     items: [
